@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1650" viewBox="0 0 1200 1650">
+  <defs><linearGradient id="stock" x2="1" y2="1"><stop stop-color="#f5f4f0" /><stop offset="1" stop-color="#e7e6e0" /></linearGradient></defs>
+  <rect width="1200" height="1650" fill="url(#stock)" />
+  <path d="M-130 1040 C170 1030 90 520 465 300 C735 140 1115 210 1000 500 C885 790 540 930 325 1170 C190 1320 325 1460 630 1370 C880 1298 1020 1110 1340 1120" fill="none" stroke="#c9c8c1" stroke-width="13" opacity=".34" />
+  <path d="M-130 1033 C170 1023 90 513 465 293 C735 133 1115 203 1000 493 C885 783 540 923 325 1163 C190 1313 325 1453 630 1363 C880 1291 1020 1103 1340 1113" fill="none" stroke="#fffefa" stroke-width="8" opacity=".82" />
+  <path d="M-130 1045 C170 1035 90 525 465 305 C735 145 1115 215 1000 505 C885 795 540 935 325 1175 C190 1325 325 1465 630 1375 C880 1303 1020 1115 1340 1125" fill="none" stroke="#c4c3bc" stroke-width="3" opacity=".62" />
+  <text x="108" y="130" fill="#75756f" font-family="Arial,sans-serif" font-size="17" letter-spacing="5">CONTACT / JIYUJING</text>
+  <text x="604" y="504" text-anchor="middle" fill="#c9c8c1" font-family="Georgia,'Times New Roman',serif" font-size="180" font-weight="400" letter-spacing="-6" opacity=".34">Jiy</text>
+  <text x="596" y="493" text-anchor="middle" fill="#fffefa" font-family="Georgia,'Times New Roman',serif" font-size="180" font-weight="400" letter-spacing="-6" opacity=".82">Jiy</text>
+  <text x="600" y="500" text-anchor="middle" fill="#efeee9" stroke="#c4c3bc" stroke-width="1.5" font-family="Georgia,'Times New Roman',serif" font-size="180" font-weight="400" letter-spacing="-6" opacity=".62">Jiy</text>
+  
+  
+  <text x="108" y="990" fill="#73736c" font-family="'Noto Sans CJK SC','Microsoft YaHei',sans-serif" font-size="22" letter-spacing="2">邮箱  /  jiy_2023@163.com</text>
+  
+  <text x="1090" y="1530" text-anchor="end" fill="#777870" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">08</text>
+</svg>

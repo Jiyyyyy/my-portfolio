@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1650" viewBox="0 0 1200 1650">
+  <rect width="1200" height="1650" fill="#f5f1e8"/>
+  <text x="84" y="104" fill="#73776d" font-family="sans-serif" font-size="19" letter-spacing="4">摄影</text>
+  <path d="M84 132H1116" stroke="#252c27" stroke-opacity=".28"/>
+  <text x="84" y="350" fill="#252c27" font-family="serif" font-size="70">让视线流动起来</text>
+  <text x="84" y="422" fill="#73776d" font-family="sans-serif" font-size="22" letter-spacing="2">拖动浏览 · 点击作品查看大图</text>
+  <text x="84" y="1575" fill="#73776d" font-family="sans-serif" font-size="19" letter-spacing="4">季玉静 · 河南大学新闻学</text>
+  <text x="1116" y="1575" text-anchor="end" fill="#73776d" font-family="sans-serif" font-size="19" letter-spacing="4">04</text>
+</svg>
